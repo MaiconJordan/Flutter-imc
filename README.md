@@ -1,6 +1,8 @@
 # IMC-Flutter 1.0
 Pequeno projeto em flutter, com os princípios básicos da tecnologia.
 
+![Home Do aplicativo](https://github.com/MaiconJordan/Flutter-imc/blob/main/img/imc-flutter.png?raw=true)
+
 ## Calcula o IMC do usuário e exibe o valor 
 
 * Captura o nome
